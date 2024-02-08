@@ -1,5 +1,7 @@
 # Java Lab Programs
 
+### Date : 08/02/2024
+
 [1.](DatatypeEx.java). WAP to implement data types- int, short, float, string and print/show that data types. All input is available in programs.
 
 [2.](OperatorsDemo.java) WAP to implement all operators- addition, subtraction, multiplication, division, modulus and print those values. All input/show is available in programs
