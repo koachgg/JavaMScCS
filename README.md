@@ -4,7 +4,7 @@
 
 [2.](OperatorsDemo.java) WAP to implement all operators- addition, subtraction, multiplication, division, modulus and print those values. All input/show is available in programs
 
-[3.](AssignmentOperatorsDemo.java) WAP to implement assignment operator for - addition, subtraction, multiplication, division, modulus and print/show the values. All input is available in programs.
+[3.](AssignmentoperatorDemo.java) WAP to implement assignment operator for - addition, subtraction, multiplication, division, modulus and print/show the values. All input is available in programs.
 
 [4.](Operators.java) WAP to implement increment, decrement and operator- comparison, logical, bitwise and print the values. All input/show is available in programs.
 
