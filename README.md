@@ -11,3 +11,12 @@
 [4.](Operators.java) WAP to implement increment, decrement and operator- comparison, logical, bitwise and print the values. All input/show is available in programs.
 
 [5.](ControlFlowDemo.java)  WAP to implement if construct like- print season, conditional operator, while loop like- print fibonacci series, for loop like- print odd numbers and print/show the values. All input is available in programs.
+
+
+
+### Date : 15/02/2024 
+
+[1.](switcheg.java). 1. WAP to implement switch statement, breaks, continue and print/show the values. All input is available in programs/ runtime.
+
+[2.](
+
